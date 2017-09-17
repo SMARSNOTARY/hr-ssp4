@@ -11,10 +11,25 @@ The sequence: add, subtract, multiply, divide
 // assumptions: Treat seed as zero so will start by adding first number to zero, subtract second number, etc. If divide by zero, return infinity
 
 function addSubtractMultiplyDivideRepeat(...args) {
-  // get length of array
-  // loop through array
-    // for each loop, use modulus 4 to identify operation (add = 1, subtract = 2, etc.)
-      // if operation is divide AND the element is zero, return infinity
-      //  take accumulator/seed and perform next operation with element from array
-  // when done, return accumulator
+  let accum = 0;
+  for (let i = 0; i < args.length; i++) {
+    if (i % 4 === 0) {
+      accum += args[i];
+    } else if (i % 4 === 1) {
+      accum -= args[i];
+    } else if (i % 4 === 2) {
+      accum *= args[i];
+    } else if (i % 4 === 3 && args[i] === 0) {
+      if (accum < 0) {
+        accum = Number.NEGATIVE_INFINITY
+        return accum;
+      } else {
+        accum = Number.POSITIVE_INFINITY
+        return accum;
+      }
+    } else if (i % 4 === 3) {
+      accum /= args[i];
+    }
+  }
+  return accum;
 }
