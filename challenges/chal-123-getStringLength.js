@@ -30,3 +30,11 @@ describe("getStringLength", function() {
   });
 });
 */
+
+function getStringLength(string) {
+  let howLong = 0;
+  for (let char of string) {
+    howLong++;
+  }
+  return howLong;
+}
