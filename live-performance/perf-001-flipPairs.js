@@ -7,6 +7,14 @@ Example:
 var input = 'check out how interesting this problem is, it\'s insanely interesting!';
 var output = flipPairs(input);
 console.log(output); // --> hcce kuo toh wnietertsni ghtsip orlbmei ,si 't sniasenyli tnreseitgn!
+
+Your Code Should Pass:
+
+describe("The Problem", function() {
+  it("intentionally does not have any working tests.", function() {
+    expect(0).toBe(1);
+  });
+});
 */
 
 // input: a string
