@@ -24,3 +24,38 @@ generate randomIndex from size of current array
 splice the name at that index out of the array and push to already-called array
 generate next randomIndex from size of now-smaller array, etc.
 */
+
+// solution provided by Michael Diodoro
+
+function coldCaller(students) {
+  var alreadyCalled = [];
+  var student;
+  return function() {
+    var randomIndex = Math.floor(Math.random() * students.length);
+    !students.length ? students = alreadyCalled.splice(0, alreadyCalled.length) : null;
+    student = students.splice(randomIndex, 1);
+    alreadyCalled.push(student[0]);
+    console.log(student);
+  }
+}
+
+// another version from either Rajas or Cy
+
+function coldCaller(students) {
+    var uncalledStudents = students.slice();
+    var calledStudents = [];
+    var called;
+    var randomIndex;
+
+    return function() {
+        if (calledStudents.length === students.length) {
+            uncalledStudents = students.slice();
+            calledStudents = [];
+        }
+        randomIndex = Math.floor(Math.random() * (uncalledStudents.length - 1));
+        calledStudents.push(uncalledStudents[randomIndex]);
+        uncalledStudents.splice(randomIndex, 1);
+        return calledStudents[calledStudents.length - 1];
+    }
+
+}

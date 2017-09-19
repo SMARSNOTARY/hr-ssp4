@@ -33,3 +33,25 @@ function addSubtractMultiplyDivideRepeat(...args) {
   }
   return accum;
 }
+
+// solution from either Rajas or Cy
+
+var seqOps = function () {
+  var output = 0;
+  var args = [].slice.call(arguments);
+  for ( i = 0; i < args.length; i += 4 ) {
+    if ( i < args.length ) {
+      output += args[i];
+    }
+    if ( i + 1 < args.length ) {
+      output -= args[i + 1];
+    }
+    if ( i + 2 < args.legnth ) {
+      output += args[i + 2];
+    }
+    if ( i + 4  < args.length ) {
+      output = output / args[i + 3];
+    }
+  }
+  return output;
+}
