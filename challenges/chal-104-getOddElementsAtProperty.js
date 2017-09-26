@@ -17,6 +17,7 @@ var obj = {
 var output = getOddElementsAtProperty(obj, 'key');
 console.log(output); // --> [1, 3, 5]
 
+
 Your Code Should Pass:
 
 describe("getOddElementsAtProperty", function() {
