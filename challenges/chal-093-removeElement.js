@@ -1,6 +1,7 @@
 // preImmersive-buildingBlocksMastery-093-removeElement*
 
 /*
+practice practice
 Write a function called “removeElement”.
 
 Given an array of elements, and a “discarder” parameter, “removeElement” returns an array containing the items in the given array that do not match the “discarder” parameter.
