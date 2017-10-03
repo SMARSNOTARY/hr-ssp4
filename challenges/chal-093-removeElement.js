@@ -1,7 +1,6 @@
 // preImmersive-buildingBlocksMastery-093-removeElement*
 
 /*
-practice practice
 Write a function called “removeElement”.
 
 Given an array of elements, and a “discarder” parameter, “removeElement” returns an array containing the items in the given array that do not match the “discarder” parameter.
@@ -28,10 +27,10 @@ describe("removeElement", function() {
   it("return an array with all booleans not matching 'discarder'", function() {
     expect(removeElement([true, true, true, false, true], true)).toEqual([false]);
   });
-  it("return an emtpy array when all elements match 'discarder'", function() {
+  it("return an empty array when all elements match 'discarder'", function() {
     expect(removeElement([true, true, true, true], true)).toEqual([]);
   });
-  it("return an emtpy array when given an empty array", function() {
+  it("return an empty array when given an empty array", function() {
     expect(removeElement([], 4)).toEqual([]);
   });
 });
