@@ -13,8 +13,7 @@ Argument:
 Return value:
 
 [['name', 'Holly'], ['age', 35], ['role', 'producer']]
-*/
-/*
+
 Your Code Should Pass:
 
 describe('convertObjectToList', function() {
@@ -54,35 +53,3 @@ describe('convertObjectToList', function() {
   })
 });
 */
-
-function convertObjectToList(obj) {
-  let result = [];
-  for (let key in obj) {
-    let keyValuePair = [];
-    keyValuePair.push(key, obj[key]);
-    result.push(keyValuePair);
-  }
-  return result;
-}
-
-// Arianna Kellogg
-function convertObjectToList(obj) {
-  return Object.entries(obj);
-}
-
-// Angela Huang
-function convertObjectToList(obj) {
-  var arr = [];
-  for (var key in obj) {
-    arr.push([key, obj[key]]);
-  }
-  return arr;
-}
-
-// Alex Balliet
-function convertObjectToList(obj) {
-  return Object.keys(obj).map(function (key) {
-    var val = obj[key];
-    return [key, val];
-  });
-}

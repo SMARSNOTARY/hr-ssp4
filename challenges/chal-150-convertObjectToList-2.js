@@ -52,16 +52,3 @@ describe ('listAllValues', function() {
 
 });
 */
-
-function listAllValues(obj) {
-  return Object.values(obj);
-}
-
-// Thomas Parker
-function listAllValues(obj) {
-  var resultArr = [];
-  for (var prop in obj) {
-    resultArr.push(obj[prop]);
-  }
-  return resultArr;
-}
