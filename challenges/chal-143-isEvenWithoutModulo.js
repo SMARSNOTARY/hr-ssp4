@@ -12,8 +12,3 @@ Notes:
 var output = isEvenWithoutModulo(8);
 console.log(output); // --> true
 */
-
-function isEvenWithoutModulo(num) {
-  num = num - Math.trunc(num / 2) * 2;
-  return num === 0 ? true : false;
-}
