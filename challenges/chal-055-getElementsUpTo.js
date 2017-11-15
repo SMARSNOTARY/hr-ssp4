@@ -3,7 +3,7 @@
 /*
 Write a function called “getElementsUpTo”.
 
-Given an array and a index, “getElementsUpTo”, returns an array with all the elements up until, but not including, the element at the given index.
+Given an array and an index, “getElementsUpTo” returns an array with all the elements up until, but not including, the element at the given index.
 
 Notes:
 * In order to do this you should be familiar with the ‘slice’ method.
@@ -31,3 +31,7 @@ describe("getElementsUpTo", function() {
   });
 });
 */
+
+function getElementsUpTo(array, n) {
+  return array.slice(0,n);
+}
