@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-148-convertArrayToObject3
+// challenge-148-convertArrayToObject3
 
 /*
 Write a function called “transformEmployeeData” that transforms some employee data from one format to another.

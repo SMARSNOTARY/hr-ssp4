@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-095-getNthElementOfProperty
+// challenge-095-getNthElementOfProperty
 
 /*
 Write a function called “getNthElementOfProperty”.

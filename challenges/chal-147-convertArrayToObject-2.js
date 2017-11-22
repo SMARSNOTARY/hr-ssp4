@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-147-convertArrayToObject2
+// challenge-147-convertArrayToObject2
 
 /*
 Write a function ‘fromListToObject’ which takes in an array of arrays, and returns an object with each pair of elements in the array as a key-value pair.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-129-findSmallestNumberAmongMixedElements*
+// challenge-129-findSmallestNumberAmongMixedElements*
 
 /*
 Write a function called “findSmallestNumberAmongMixedElements”.

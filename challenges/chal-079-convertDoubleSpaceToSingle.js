@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-079-convertDoubleSpaceToSingle
+// challenge-079-convertDoubleSpaceToSingle
 
 /*
 Write a function called “convertDoubleSpaceToSingle”.

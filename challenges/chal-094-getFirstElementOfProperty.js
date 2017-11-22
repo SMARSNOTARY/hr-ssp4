@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-094-getFirstElementOfProperty
+// challenge-094-getFirstElementOfProperty
 
 /*
 Write a function called “getFirstElementOfProperty”.

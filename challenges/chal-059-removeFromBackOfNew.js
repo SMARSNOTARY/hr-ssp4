@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-059-removeFromBackOfNew
+// challenge-059-removeFromBackOfNew
 
 /*
 Write a function called “removeFromBackOfNew”.

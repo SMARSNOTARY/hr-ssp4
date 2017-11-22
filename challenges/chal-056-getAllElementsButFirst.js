@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-056-getAllElementsButFirst
+// challenge-056-getAllElementsButFirst
 
 /*
 Write a function called “getAllElementsButFirst”.

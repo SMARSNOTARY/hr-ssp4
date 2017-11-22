@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-133-convertScoreToGrade
+// challenge-133-convertScoreToGrade
 
 /*
 Write a function called “convertScoreToGrade”.

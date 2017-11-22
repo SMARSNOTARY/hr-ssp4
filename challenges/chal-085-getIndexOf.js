@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-085-getIndexOf
+// challenge-085-getIndexOf
 
 /*
 Write a function called “getIndexOf”.

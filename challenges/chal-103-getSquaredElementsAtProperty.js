@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-103-getSquaredElementsAtProperty*
+// challenge-103-getSquaredElementsAtProperty*
 
 /*
 Write a function called “getSquaredElementsAtProperty”.

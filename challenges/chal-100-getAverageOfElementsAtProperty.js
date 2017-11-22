@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-100-getAverageOfElementsAtProperty*
+// challenge-100-getAverageOfElementsAtProperty*
 
 /*
 Write a function called “getAverageOfElementsAtProperty”.

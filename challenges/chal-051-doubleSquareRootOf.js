@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-051-doubleSquareRootOf
+// challenge-051-doubleSquareRootOf
 
 /*
 Write a function called “doubleSquareRootOf”.

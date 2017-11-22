@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-126-sumDigits*
+// challenge-126-sumDigits*
 
 /*
 Write a function called “sumDigits”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-102-filterOddLengthWords*
+// challenge-102-filterOddLengthWords*
 
 /*
 Write a function called “filterOddLengthWords”.

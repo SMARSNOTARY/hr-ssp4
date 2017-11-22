@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-125-getProductOfAllElementsAtProperty*
+// challenge-125-getProductOfAllElementsAtProperty*
 
 /*
 Write a function called “getProductOfAllElementsAtProperty”.

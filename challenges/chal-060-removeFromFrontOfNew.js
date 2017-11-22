@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-060-removeFromFrontOfNew
+// challenge-060-removeFromFrontOfNew
 
 /*
 Write a function called “removeFromFrontOfNew”.

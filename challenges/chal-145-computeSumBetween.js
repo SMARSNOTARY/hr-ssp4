@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-145-computeSumBetween
+// challenge-145-computeSumBetween
 
 /*
 Write a function called “computeSumBetween”.

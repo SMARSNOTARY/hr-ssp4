@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-132-computeSummationToN
+// challenge-132-computeSummationToN
 
 /*
 Write a function called “computeSummationToN”.

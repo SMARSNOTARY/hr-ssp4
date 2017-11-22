@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-134-convertScoreToGradeWithPlus
+// challenge-134-convertScoreToGradeWithPlus
 
 /*
 Write a function called “convertScoreToGradeWithPlusAndMinus”.

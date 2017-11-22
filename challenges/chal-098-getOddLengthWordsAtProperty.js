@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-098-getOddLengthWordsAtProperty*
+// challenge-098-getOddLengthWordsAtProperty*
 
 /*
 Write a function called “getOddLengthWordsAtProperty”.

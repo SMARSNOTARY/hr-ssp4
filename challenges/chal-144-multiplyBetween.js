@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-144-multiplyBetween
+// challenge-144-multiplyBetween
 
 /*
 Write a function called “multiplyBetween”.

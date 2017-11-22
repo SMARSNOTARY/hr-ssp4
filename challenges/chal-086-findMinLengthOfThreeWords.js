@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-086-findMinLengthOfThreeWords
+// challenge-086-findMinLengthOfThreeWords
 
 /*
 Write a function called “findMinLengthOfThreeWords”.

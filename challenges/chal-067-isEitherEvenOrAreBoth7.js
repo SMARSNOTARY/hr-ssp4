@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-067-isEitherEvenOrAreBoth7
+// challenge-067-isEitherEvenOrAreBoth7
 
 /*
 Write a function called “isEitherEvenOrAreBoth7”.

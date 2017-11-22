@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-104-getOddElementsAtProperty*
+// challenge-104-getOddElementsAtProperty*
 
 /*
 Write a function called “getOddElementsAtProperty”.

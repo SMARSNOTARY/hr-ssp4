@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-052-getLengthOfThreeWords
+// challenge-052-getLengthOfThreeWords
 
 /*
 Write a function called “getLengthOfThreeWords”.

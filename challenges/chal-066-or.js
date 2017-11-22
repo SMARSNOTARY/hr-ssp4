@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-066-or
+// challenge-066-or
 
 /*
 Write a function called “or”.

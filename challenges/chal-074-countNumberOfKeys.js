@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-074-countNumberOfKeys
+// challenge-074-countNumberOfKeys
 
 /*
 Write a function called “countNumberOfKeys”.

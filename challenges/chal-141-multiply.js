@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-141-multiply
+// challenge-141-multiply
 
 /*
 Write a function called “multiply”.

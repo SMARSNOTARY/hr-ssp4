@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-136-repeatString
+// challenge-136-repeatString
 
 /*
 Write a function called “repeatString”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-123-getStringLength
+// challenge-123-getStringLength
 
 /*
 Write a function called “getStringLength”.

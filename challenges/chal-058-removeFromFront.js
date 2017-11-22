@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-058-removeFromFront
+// challenge-058-removeFromFront
 
 /*
 Write a function called “removeFromFront”.

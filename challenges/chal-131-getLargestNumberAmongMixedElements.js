@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-131-getLargestNumberAmongMixedElements*
+// challenge-131-getLargestNumberAmongMixedElements*
 
 /*
 Write a function called “getLargestNumberAmongMixedElements”.

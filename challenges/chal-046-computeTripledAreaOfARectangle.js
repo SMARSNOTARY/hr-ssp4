@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-046-computeTripledAreaOfARectangle
+// challenge-046-computeTripledAreaOfARectangle
 
 /*
 Write a function called “computeTripledAreaOfARectangle”.

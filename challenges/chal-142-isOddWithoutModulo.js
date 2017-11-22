@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-142-isOddWithoutModulo
+// challenge-142-isOddWithoutModulo
 
 /*
 Write a function called “isOddWithoutModulo”.

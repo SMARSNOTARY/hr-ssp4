@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-088-getElementsThatEqual10AtProperty*
+// challenge-088-getElementsThatEqual10AtProperty*
 
 /*
 Write a function called “getElementsThatEqual10AtProperty”.

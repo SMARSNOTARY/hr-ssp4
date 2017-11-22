@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-112-squareElements*
+// challenge-112-squareElements*
 
 /*
 Write a function called “squareElements”.

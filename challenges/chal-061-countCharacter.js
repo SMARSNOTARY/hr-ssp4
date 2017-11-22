@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-061-countCharacter
+// challenge-061-countCharacter
 
 /*
 Write a function called “countCharacter”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-073-removeEvenValues
+// challenge-073-removeEvenValues
 
 /*
 Write a function called “removeEvenValues”.

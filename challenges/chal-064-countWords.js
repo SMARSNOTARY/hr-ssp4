@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-064-countWords
+// challenge-064-countWords
 
 /*
 Write a function called “countWords”.

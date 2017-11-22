@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-054-getElementsAfter
+// challenge-054-getElementsAfter
 
 /*
 Write a function called “getElementsAfter”.

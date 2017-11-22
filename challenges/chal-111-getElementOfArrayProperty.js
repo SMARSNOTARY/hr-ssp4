@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-111-getElementOfArrayProperty
+// challenge-111-getElementOfArrayProperty
 
 /*
 Write a function called “getElementOfArrayProperty”.

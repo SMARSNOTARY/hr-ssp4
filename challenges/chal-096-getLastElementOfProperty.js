@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-096-getLastElementOfProperty
+// challenge-096-getLastElementOfProperty
 
 /*
 Write a function called “getLastElementOfProperty”.

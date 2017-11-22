@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-151-convertObjectToList3
+// challenge-151-convertObjectToList3
 
 /*
 Write a function called “convertObjectToList” which converts an object literal into an array of arrays, like this:

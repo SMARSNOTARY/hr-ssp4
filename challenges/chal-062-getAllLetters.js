@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-062-getAllLetters
+// challenge-062-getAllLetters
 
 /*
 Write a function called “getAllLetters”.

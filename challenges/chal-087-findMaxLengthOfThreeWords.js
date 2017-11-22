@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-087-findMaxLengthOfThreeWords
+// challenge-087-findMaxLengthOfThreeWords
 
 /*
 Write a function called “findMaxLengthOfThreeWords”.

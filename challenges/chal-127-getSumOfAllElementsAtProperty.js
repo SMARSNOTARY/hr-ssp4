@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-127-getSumOfAllElementsAtProperty*
+// challenge-127-getSumOfAllElementsAtProperty*
 
 /*
 Write a function called “getSumOfAllElementsAtProperty”.

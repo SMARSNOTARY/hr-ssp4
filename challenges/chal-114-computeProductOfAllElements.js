@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-114-computeProductOfAllElements*
+// challenge-114-computeProductOfAllElements*
 
 /*
 Write a function called “computeProductOfAllElements”.

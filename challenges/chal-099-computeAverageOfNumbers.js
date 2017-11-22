@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-099-computeAverageOfNumbers*
+// challenge-099-computeAverageOfNumbers*
 
 /*
 Write a function called “computeAverageOfNumbers”.

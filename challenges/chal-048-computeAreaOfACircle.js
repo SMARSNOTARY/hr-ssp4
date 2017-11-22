@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-048-computeAreaOfACircle
+// challenge-048-computeAreaOfACircle
 
 /*
 Write a function called “computeAreaOfACircle”.

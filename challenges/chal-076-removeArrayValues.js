@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-076-removeArrayValues
+// challenge-076-removeArrayValues
 
 /*
 Write a function called “removeArrayValues”.

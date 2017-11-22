@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-107-getLengthOfLongestElement*
+// challenge-107-getLengthOfLongestElement*
 
 /*
 Write a function called “getLengthOfLongestElement”.

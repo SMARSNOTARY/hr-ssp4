@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-053-joinArrays
+// challenge-053-joinArrays
 
 /*
 Write a function called “joinArrays”.

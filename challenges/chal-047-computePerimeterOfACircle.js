@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-047-computePerimeterOfACircle
+// challenge-047-computePerimeterOfACircle
 
 /*
 Write a function called “computePerimeterOfACircle”.

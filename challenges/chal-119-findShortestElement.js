@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-119-findShortestElement*
+// challenge-119-findShortestElement*
 
 /*
 Write a function called “findShortestElement”.

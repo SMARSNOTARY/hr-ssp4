@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-071-removeNumbersLessThan
+// challenge-071-removeNumbersLessThan
 
 /*
 Write a function called “removeNumbersLessThan”.

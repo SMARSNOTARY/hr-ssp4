@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-055-getElementsUpTo
+// challenge-055-getElementsUpTo
 
 /*
 Write a function called “getElementsUpTo”.

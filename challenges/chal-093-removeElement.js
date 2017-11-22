@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-093-removeElement*
+// challenge-093-removeElement*
 
 /*
 Write a function called “removeElement”.

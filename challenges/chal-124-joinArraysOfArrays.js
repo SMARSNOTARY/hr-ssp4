@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-124-joinArraysOfArrays
+// challenge-124-joinArraysOfArrays
 
 /*
 Write a function called “joinArrayOfArrays”.

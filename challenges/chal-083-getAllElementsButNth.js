@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-083-getAllElementsButNth*
+// challenge-083-getAllElementsButNth*
 
 /*
 Write a function called “getAllElementsButNth”.

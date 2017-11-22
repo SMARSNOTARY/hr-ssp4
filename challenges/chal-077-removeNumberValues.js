@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-077-removeNumberValues
+// challenge-077-removeNumberValues
 
 /*
 Write a function called “removeNumberValues”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-105-getEvenElementsAtProperty*
+// challenge-105-getEvenElementsAtProperty*
 
 /*
 Write a function called “getEvenElementsAtProperty”.

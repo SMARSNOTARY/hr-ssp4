@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-065-removeFromBack
+// challenge-065-removeFromBack
 
 /*
 Write a function called “removeFromBack”.

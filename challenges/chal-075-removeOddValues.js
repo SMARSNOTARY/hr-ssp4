@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-075-removeOddValues
+// challenge-075-removeOddValues
 
 /*
 Write a function called “removeOddValues”.

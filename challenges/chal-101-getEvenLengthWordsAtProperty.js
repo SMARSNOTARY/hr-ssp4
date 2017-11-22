@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-101-getEvenLengthWordsAtProperty*
+// challenge-101-getEvenLengthWordsAtProperty*
 
 /*
 Write a function called “getEvenLengthWordsAtProperty”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-063-getAllWords
+// challenge-063-getAllWords
 
 /*
 Write a function called “getAllWords”.

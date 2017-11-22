@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-120-getLargestElement*
+// challenge-120-getLargestElement*
 
 /*
 Write a function called “getLargestElement”.

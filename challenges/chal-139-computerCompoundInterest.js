@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-139-computeCompoundInterest
+// challenge-139-computeCompoundInterest
 
 /*
 Write a function called “computeCompoundInterest”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-140-modulo
+// challenge-140-modulo
 
 /*
 Write a function called “modulo”.

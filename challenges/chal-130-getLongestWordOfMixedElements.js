@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-130-getLongestWordOfMixedElements*
+// challenge-130-getLongestWordOfMixedElements*
 
 /*
 Write a function called “getLongestWordOfMixedElements”.

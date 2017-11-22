@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-069-extend
+// challenge-069-extend
 
 /*
 Write a function called “extend”.

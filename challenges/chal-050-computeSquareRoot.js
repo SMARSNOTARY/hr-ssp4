@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-050-computeSquareRoot
+// challenge-050-computeSquareRoot
 
 /*
 Write a function called “computeSquareRoot”.

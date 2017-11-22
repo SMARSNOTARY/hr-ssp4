@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-092-getElementsGreaterThan10AtProperty*
+// challenge-092-getElementsGreaterThan10AtProperty*
 
 /*
 Write a function called “getElementsGreaterThan10AtProperty”.

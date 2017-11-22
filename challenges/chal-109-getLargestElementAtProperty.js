@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-109-getLargestElementAtProperty*
+// challenge-109-getLargestElementAtProperty*
 
 /*
 Write a function called “getLargestElementAtProperty”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-106-filterEvenLengthWords*
+// challenge-106-filterEvenLengthWords*
 
 /*
 Write a function called “filterEvenLengthWords”.

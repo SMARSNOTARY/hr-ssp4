@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-110-getAllButLastElementOfProperty
+// challenge-110-getAllButLastElementOfProperty
 
 /*
 Write a function called “getAllButLastElementOfProperty”.

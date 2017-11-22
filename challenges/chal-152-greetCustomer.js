@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-152-greetCustomer
+// challenge-152-greetCustomer
 
 /*
 Write a function called “greetCustomers”.

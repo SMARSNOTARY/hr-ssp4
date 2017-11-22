@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-117-getLongestElement*
+// challenge-117-getLongestElement*
 Write a function called “getLongestElement”.
 
 Given an array, “getLongestElement” returns the longest string in the given array.

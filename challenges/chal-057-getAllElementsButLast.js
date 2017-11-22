@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-057-getAllElementsButLast
+// challenge-057-getAllElementsButLast
 
 /*
 Write a function called “getAllElementsButLast”.

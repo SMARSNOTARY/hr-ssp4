@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-108-getSmallestElementAtProperty*
+// challenge-108-getSmallestElementAtProperty*
 
 /*
 Write a function called “getSmallestElementAtProperty”.

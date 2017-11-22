@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-113-filterOddElements*
+// challenge-113-filterOddElements*
 
 /*
 Write a function called “filterOddElements”.

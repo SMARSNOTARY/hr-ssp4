@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-080-joinThreeArrays
+// challenge-080-joinThreeArrays
 
 /*
 Write a function called “joinThreeArrays”.

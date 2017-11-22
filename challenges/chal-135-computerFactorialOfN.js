@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-135-computeFactorialOfN
+// challenge-135-computeFactorialOfN
 
 /*
 Write a function called “computeFactorialOfN”.

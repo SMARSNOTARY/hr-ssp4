@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-115-filterEvenElements*
+// challenge-115-filterEvenElements*
 
 /*
 Write a function called “filterEvenElements”.

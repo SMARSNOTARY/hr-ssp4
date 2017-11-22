@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-116-getLengthOfShortestElement*
+// challenge-116-getLengthOfShortestElement*
 
 /*
 Write a function called “getLengthOfShortestElement”.

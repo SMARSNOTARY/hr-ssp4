@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-146-convertArrayToObject1
+// challenge-146-convertArrayToObject1
 /*
 Challenge 146
 Write a function ‘transformFirstAndLast’ that takes in an array, and returns an object with:

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-090-getElementsLessThan100AtProperty*
+// challenge-090-getElementsLessThan100AtProperty*
 
 /*
 Write a function called “getElementsLessThan100AtProperty”.

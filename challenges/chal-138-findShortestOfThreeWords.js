@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-138-findShortestOfThreeWords*
+// challenge-138-findShortestOfThreeWords*
 
 /*
 Write a function called “findShortestOfThreeWords”.

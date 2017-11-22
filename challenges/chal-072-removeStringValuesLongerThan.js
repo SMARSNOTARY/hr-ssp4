@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-072-removeStringValuesLongerThan
+// challenge-072-removeStringValuesLongerThan
 
 /*
 Write a function called “removeStringValuesLongerThan”.

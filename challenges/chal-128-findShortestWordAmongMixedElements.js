@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-128-findShortestWordAmongMixedElements*
+// challenge-128-findShortestWordAmongMixedElements*
 
 /*
 Write a function called “findShortestWordAmongMixedElements”.

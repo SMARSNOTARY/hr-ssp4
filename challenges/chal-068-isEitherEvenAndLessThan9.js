@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-068-isEitherEvenAndLessThan9
+// challenge-068-isEitherEvenAndLessThan9
 
 /*
 Write a function called “isEitherEvenAndLessThan9”.

@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-084-areValidCredentials
+// challenge-084-areValidCredentials
 
 /*
 Write a function called “areValidCredentials”.

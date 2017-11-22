@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-121-computeSumOfAllElements*
+// challenge-121-computeSumOfAllElements*
 
 /*
 Write a function called “computeSumOfAllElements”.

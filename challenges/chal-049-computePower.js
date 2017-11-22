@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-049-computePower
+// challenge-049-computePower
 
 /*
 Write a function called “computePower”.

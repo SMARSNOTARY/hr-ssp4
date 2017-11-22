@@ -1,4 +1,4 @@
-// preImmersive-buildingBlocksMastery-122-calculateBillTotal
+// challenge-122-calculateBillTotal
 
 /*
 Write a function called “calculateBillTotal”.
