@@ -25,3 +25,9 @@ describe("areBothOdd", function() {
   });
 });
 */
+
+function areBothOdd(num1, num2) {
+  let num1Odd = num1 % 2 !== 0;
+  let num2Odd = num2 % 2 !== 0;
+  return (num1Odd && num2Odd);
+}
