@@ -31,3 +31,7 @@ describe("getProperty", function() {
   });
 });
 */
+
+function getProperty(obj, key) {
+  return obj[key];
+}
