@@ -25,3 +25,13 @@ describe("isOldEnoughToDrinkAndDrive", function() {
 function isOldEnoughToDrinkAndDrive(age) {
   return false;
 }
+
+// Arianna Kellogg
+function isOldEnoughToDrinkAndDrive(age) {
+  var isSober = false;
+  if(age >= 21 && isSober) {
+    return true;
+  } else {
+    return false;
+  }
+}
