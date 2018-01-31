@@ -47,3 +47,70 @@ function countWords(str) {
   }
   return wordsObj;
 }
+
+// Ana Stijovic
+function countWords(str) {
+  var output = {};
+  var words = str.split(" ");
+
+  if(str.length === 0){
+    return output
+}
+  words.forEach(function(element){
+  output[element] ? output[element] ++ : output[element] = 1
+})
+  return output
+}
+
+// Bowen Li
+function countWords(str) {
+  var words = str.split(' ');
+  var ans = {}
+  if (str.length === 0) {
+    return ans;
+  }
+  for (var i=0; i<words.length; i++) {
+    ans[words[i]] = ans[words[i]] + 1 || 1
+  }
+  return ans;
+}
+
+// Four similar approaches, with differing levels of clarity
+// Edward Kim
+function countWords(str) {
+  return str.length ? str.split(' ').reduce((acc, el) => {
+    acc[el] = acc[el] + 1 || 1;
+    return acc;
+  }, {}) : {};
+}
+
+// Michael Diodoro
+function countWords(str) {
+  return str.length ? str.split(' ').reduce((obj, word) => {
+    if (obj[word]) {
+      obj[word]++;
+      return obj;
+    }
+    obj[word] = 1;
+    return obj;
+  }, {}) : {};
+}
+
+// Sukhpaul Nijjar
+function countWords(str) {
+  if(str.length > 0) {
+    return str.split(' ').reduce((obj, word) => {
+      obj[word] ? obj[word]++ : obj[word] = 1;
+      return obj;
+    },{});
+  }
+  return {};
+}
+
+// Yusaku Kasahara
+function countWords(str) {
+  return str.split(' ').reduce((output, word) => {
+    !word.length || (output[word] = output[word] + 1 || 1);
+    return output;
+  }, {});
+}
