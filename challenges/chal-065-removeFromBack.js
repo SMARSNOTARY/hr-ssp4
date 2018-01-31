@@ -33,3 +33,29 @@ function removeFromBack(arr) {
   arr.pop();
   return arr;
 }
+
+// Jonathan Rojas
+function removeFromBack(arr) {
+  arr.splice(-1,1);
+  return arr;
+}
+
+// Syed Ahmed Naqvi
+function removeFromBack(arr) {
+  return arr.slice(0,arr.length - 1);
+}
+
+// easily modified to remove x chars from back
+// John MacIsaac
+function removeFromBack(arr) {
+  arr.splice(arr.length-1, 1);
+  return arr;
+}
+
+// don't alter the original array
+// Justin Yoo
+function removeFromBack(arr) {
+  var newArr = arr;
+  newArr.pop();
+  return newArr;
+}
