@@ -33,3 +33,20 @@ function getAllWords(str) {
     return str.split(' ');
   }
 }
+
+// Amanda Loftus
+function getAllWords(str) {
+  return str.length === 0 ? [] : str.split(' ');
+}
+
+// Colton Berger
+function getAllWords(str) {
+  return str.split(' ').filter(function(word) {
+    return word.length > 0;
+  });
+}
+
+// yalcin odabasi
+function getAllWords(str) {
+  return str.split(" ").filter(Boolean);
+}
