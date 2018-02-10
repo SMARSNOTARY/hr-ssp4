@@ -33,3 +33,27 @@ function getAllLetters(str) {
   }
   return individualChars;
 }
+
+// Amanda Loftus
+function getAllLetters(str) {
+  return str.split('');
+}
+
+// Benjamin Polansky
+function getAllLetters(str) {
+  return (str.length < 1) ? [] : str.split('');
+}
+
+// Yuehan Duan
+function getAllLetters(str) {
+  return str.length ? str.split('') : [];
+}
+
+// Munkei Keton
+function getAllLetters(str) {
+   // I: word string
+   // O: returns an array containing every character in the word
+   // E: if given an empty string, it should return an empty array
+
+   return str.split('') || [];
+}
