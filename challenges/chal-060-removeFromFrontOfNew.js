@@ -35,3 +35,13 @@ describe("removeFromFrontOfNew", function() {
 function removeFromFrontOfNew(arr) {
   return arr.slice(1);
 }
+
+// Christopher Santiago
+function removeFromFrontOfNew(arr) {
+var arrCopy = arr.slice();
+  arrCopy.shift();
+  return arrCopy;
+}
+
+// Dino Firmalino
+const removeFromFrontOfNew = (arr) => arr.slice(1, arr.length);
