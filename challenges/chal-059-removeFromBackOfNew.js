@@ -36,3 +36,30 @@ describe("removeFromBackOfNew", function() {
 function removeFromBackOfNew(arr) {
   return arr.slice(0,-1);
 }
+
+// Ana Stijovic
+function removeFromBackOfNew(arr) {
+  var newArr = arr.slice(0, arr.length -1);
+  return newArr;
+}
+
+// Anthony Barker
+function removeFromBackOfNew(arr) {
+  var newArray = arr.slice('');
+  newArray.pop();
+  return newArray;
+}
+
+// Patrick Wu
+function removeFromBackOfNew(arr) {
+  var newArray = arr.slice();
+  newArray.pop();
+  return newArray;
+}
+
+// Sean Martin
+function removeFromBackOfNew(arr) {
+  let arr1 = [...arr];
+  arr1.pop();
+  return arr1;
+}
