@@ -30,3 +30,14 @@ function removeFromFront(arr) {
   arr.shift();
   return arr;
 }
+
+// Benjamin Polansky
+function removeFromFront(arr) {
+  return arr.slice(1);
+}
+
+// Miguel Aguilera-Croasdaile
+function removeFromFront(arr) {
+  arr.splice(0,1)
+  return arr
+}
