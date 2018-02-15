@@ -30,3 +30,17 @@ describe("getAllElementsButLast", function() {
 function getAllElementsButLast(array) {
   return array.slice(0,-1);
 }
+
+// Andy Qi
+function getAllElementsButLast(array) {
+  array.pop ();
+  return array;
+}
+
+// austin chin long wong
+function getAllElementsButLast (a) {
+    return a.splice(0,a.length-1)
+}
+
+// Dino Firmalino
+const getAllElementsButLast = (arr) => arr.slice(0, arr.length - 1);
