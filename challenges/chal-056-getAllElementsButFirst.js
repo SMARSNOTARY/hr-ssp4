@@ -30,3 +30,17 @@ describe("getAllElementsButFirst", function() {
 function getAllElementsButFirst(array) {
   return array.slice(1);
 }
+
+// Bethany Shao
+function getAllElementsButFirst(array) {
+  return array.splice(1);  // Angelo Deleon:  return array.splice(0,1);
+}
+
+// Arianna Kellogg
+function getAllElementsButFirst(array) {
+  array.shift();   // Anthony William Chang:  array.shift(0);
+  return array;
+}
+
+// Dino Firmalino
+const getAllElementsButFirst = (arr) => arr.splice(1);
