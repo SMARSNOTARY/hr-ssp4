@@ -35,3 +35,17 @@ describe("getElementsUpTo", function() {
 function getElementsUpTo(array, n) {
   return array.slice(0,n);
 }
+
+// Houssein Abil
+function getElementsUpTo(array, n) {
+  return array.splice(0, n);   // Jessica Thompson:  array.splice(n); return array;
+}
+
+// Jen Diamond
+function getElementsUpTo(arr, n){
+  if ( arr.length === 0 ){ return [] }
+  if ( n > arr.length ){ return arr }
+  if ( arr.length === 1){ return [] }
+  if ( n === 0 ){ return [] }
+  return arr.slice(0, n)
+}
