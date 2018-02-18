@@ -32,3 +32,21 @@ describe("getElementsAfter", function() {
 function getElementsAfter(array, n) {
   return array.slice(n+1);
 }
+
+// austin chin long wong
+function getElementsAfter (array, n) {
+  return array.splice(n+1);   //  Jeff Tsai:  return array.splice(0, n+1);
+}
+
+// Jimmy Sanders-Cannon
+function getElementsAfter(array, n) {
+  return array.splice(n+1, array.length -1);
+}
+
+// Dino Firmalino
+const getElementsAfter = (arr, n) => arr.splice(n + 1);
+
+// Lily-Thérèse Walla
+var getElementsAfter = (array, n) => {
+  return array.filter( (val, i) => { if (i > n) { return val; } } )
+}
