@@ -30,3 +30,15 @@ describe("joinArrays", function() {
 function joinArrays(arr1, arr2) {
   return arr1.concat(arr2);
 }
+
+// post class:
+function joinArrays(arr1, arr2) {
+  const arr3 = [...arr1, ...arr2];
+  return arr3;
+}
+
+// post class:
+const joinArrays = (arr1, arr2) => [...arr1, ...arr2];
+
+// Dino Firmalino
+const joinArrays = (arr1, arr2) => arr1.concat(arr2);
