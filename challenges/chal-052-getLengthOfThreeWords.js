@@ -23,3 +23,26 @@ describe("getLengthOfThreeWords", function() {
 function getLengthOfThreeWords(word1, word2, word3) {
   return word1.length + word2.length + word3.length;
 }
+
+// Mohamed Bouyagui Gassama
+const getLengthOfThreeWords = (word1, word2, word3) => {
+  return (word1 + word2 + word3).length;
+};
+
+// Dino Firmalino
+const getLengthOfThreeWords = (str1, str2, str3) => str1.length + str2.length + str3.length;
+
+// Amanda Loftus
+function getLengthOfThreeWords(word1, word2, word3) {
+  var args = [...arguments];
+  return args.reduce(function(acc, val) {
+    return acc + val.length;
+  }, 0);
+}
+
+// Yusaku Kasahara
+function getLengthOfThreeWords(word1, word2, word3) {
+  return [...arguments].reduce(function(acc, current){
+    return acc + current.length
+  }, 0);
+}
