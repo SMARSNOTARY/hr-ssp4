@@ -22,3 +22,16 @@ describe("doubleSquareRootOf", function() {
 function doubleSquareRootOf(num) {
   return Math.sqrt(num) * 2;
 }
+
+// Dino Firmalino
+const doubleSquareRootOf = (num) => Math.sqrt(num) * 2;
+
+// Edward Kim
+function doubleSquareRootOf(num) {
+  return 2 * num ** 0.5;
+}
+
+// Kanak Lata
+function doubleSquareRootOf(num) {
+ return 2*(Math.pow(num,0.5));
+}
