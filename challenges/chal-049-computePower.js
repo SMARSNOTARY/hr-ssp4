@@ -29,3 +29,11 @@ describe("computePower", function() {
 function computePower(num, exponent) {
   return num**exponent;
 }
+
+// Amanda Loftus
+function computePower(num, exponent) {
+  return Math.pow(num, exponent);
+}
+
+// Dino Firmalino
+const computePower = (num, exp) => Math.pow(num, exp);
