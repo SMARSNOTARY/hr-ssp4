@@ -25,3 +25,16 @@ describe("computeAreaOfACircle", function() {
 function computeAreaOfACircle(radius) {
   return Math.PI * radius * radius;
 }
+
+// Amanda Loftus
+function computeAreaOfACircle(radius) {
+  return Math.PI * (radius ** 2);
+}
+
+// Ana Stijovic
+function computeAreaOfACircle(radius) {
+  return Math.PI * Math.pow(radius , 2);
+}
+
+// Dino Firmalino
+const computeAreaOfACircle = (radius) => radius * radius * Math.PI;
