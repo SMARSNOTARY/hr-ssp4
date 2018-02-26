@@ -23,3 +23,12 @@ describe("computePerimeterOfACircle", function() {
 function computePerimeterOfACircle(radius) {
   return Math.PI * radius * 2;
 }
+
+// Wonder if addition is faster than multiplication here
+// Camilo Snapp
+function computePerimeterOfACircle(radius) {
+    return Math.PI * (radius + radius);
+}
+
+// Dino Firmalino
+const computePerimeterOfACircle = (radius) => Math.PI * radius * 2;
