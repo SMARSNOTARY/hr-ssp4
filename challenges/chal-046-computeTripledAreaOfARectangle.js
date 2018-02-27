@@ -23,3 +23,6 @@ describe("computeTripledAreaOfARectangle", function() {
 function computeTripledAreaOfARectangle(length, width) {
   return length * width * 3;
 }
+
+// Dino Firmalino
+const computeTripledAreaOfARectangle = (length, width) => (length * width) * 3;
