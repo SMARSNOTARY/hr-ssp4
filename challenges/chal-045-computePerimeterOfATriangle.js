@@ -24,3 +24,19 @@ describe("computePerimeterOfATriangle", function() {
 function computePerimeterOfATriangle(side1, side2, side3) {
   return side1 + side2 + side3;
 }
+
+// Alexander Mire
+function computePerimeterOfATriangle(side1, side2, side3) {
+  var arg = [...arguments];
+  return arg.reduce(function(per, side){
+    return per + side
+  },0)
+}
+
+// Michael Diodoro
+function computePerimeterOfATriangle(side1, side2, side3) {
+  return [...arguments].reduce((acc, value) => acc + value);
+}
+
+// Dino Firmalino
+const computePerimeterOfATriangle = (side1, side2, side3) => side1 + side2 + side3;
