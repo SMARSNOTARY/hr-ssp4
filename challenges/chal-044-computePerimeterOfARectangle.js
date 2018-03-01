@@ -23,3 +23,6 @@ describe("computePerimeterOfARectangle", function() {
 function computePerimeterOfARectangle(length, width) {
   return (length + width) * 2;
 }
+
+// Dino Firmalino
+const computePerimeterOfARectangle = (length, width) => (length + width) * 2;
