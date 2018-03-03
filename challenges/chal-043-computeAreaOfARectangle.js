@@ -23,3 +23,6 @@ describe("computeAreaOfARectangle", function() {
 function computeAreaOfARectangle(length, width) {
   return length * width;
 }
+
+// Dino Firmalino
+const computeAreaOfARectangle = (width, length) => width * length;
