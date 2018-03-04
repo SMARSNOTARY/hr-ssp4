@@ -36,3 +36,21 @@ function addToBack(arr, element) {
   arr.push(element);
   return arr;
 }
+
+// Andy Qi
+function addToBack(arr, element) {
+  arr.splice (arr.length, 0, element);
+  return (arr);
+}
+
+// Benji Richards
+function addToBack(arr, element) {
+  arr[arr.length] = element;
+  return(arr);
+}
+
+// Dino Firmalino
+const addToBack = (arr, element) => {
+  arr.push(element);
+  return arr;
+};
