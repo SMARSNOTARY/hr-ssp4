@@ -49,3 +49,9 @@ function addToFront(arr, element) {
   arr.splice(0,null,element);
   return arr
 }
+
+// Dino Firmalino
+const addToFront = (arr, element) => {
+  arr.unshift(element);
+  return arr;
+};
