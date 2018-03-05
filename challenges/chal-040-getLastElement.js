@@ -29,3 +29,21 @@ function getLastElement(array) {
   }
   return array[array.length-1];
 }
+
+// Michael Diodoro
+function getLastElement(array) {
+  return array[array.length - 1];
+}
+
+// Kegan Kinser
+function getLastElement(array) {
+  return array.pop();
+}
+
+// Dino Firmalino
+const getLastElement = (arr) => arr.pop();
+
+// Elvin Mooc
+function getLastElement(array) {
+  return array.slice(-1)[0]
+}
