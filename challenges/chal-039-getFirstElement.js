@@ -28,3 +28,16 @@ function getFirstElement(array) {
     return undefined;
   }
   return array[0];
+
+// Diana Tecson
+function getFirstElement(array) {
+  // input: array
+  // output: first element of array
+
+  // if array has length of 0, return undefined
+  // use shift method to obtain first element
+  return array.shift();
+}
+
+// Dino Firmalino
+const getFirstElement = (arr) => arr[0];
