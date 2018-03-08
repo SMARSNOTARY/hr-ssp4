@@ -29,3 +29,6 @@ function getNthElement(array, n) {
   }
   return array[n];
 }
+
+// Dino Firmalino
+const getNthElement = (arr, n) => arr[n];
