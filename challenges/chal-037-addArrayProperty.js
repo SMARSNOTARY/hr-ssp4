@@ -33,3 +33,6 @@ describe("addArrayProperty", function() {
 function addArrayProperty(obj, key, arr) {
   obj[key] = arr;
 }
+
+// Dino Firmalino
+const addArrayProperty = (obj, key, arr) => obj[key] = arr;
