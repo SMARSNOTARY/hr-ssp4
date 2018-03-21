@@ -50,3 +50,16 @@ function isPersonOldEnoughToDrink(person) {
   }
   return person.age >= 21;
 }
+
+// Amanda Loftus
+function isPersonOldEnoughToDrink(person) {
+  return person.age >= 21;
+}
+
+// Benjamin Polansky
+function isPersonOldEnoughToDrink(person) {
+  return person['age'] >= 21;
+}
+
+// Dino Firmalino
+const isPersonOldEnoughToDrink = (obj) => obj.age >= 21;
