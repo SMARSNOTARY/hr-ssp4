@@ -50,3 +50,16 @@ function isPersonOldEnoughToVote(person) {
   }
   return person.age >= 18;
 }
+
+// Amanda Loftus
+function isPersonOldEnoughToVote(person) {
+  return person.age >= 18;
+}
+
+// Kanak Lata
+function isPersonOldEnoughToVote(person) {
+ return person.age >= 18 ? true : false;
+}
+
+// Dino Firmalino
+const isPersonOldEnoughToVote = (obj) => obj.age >= 18;
