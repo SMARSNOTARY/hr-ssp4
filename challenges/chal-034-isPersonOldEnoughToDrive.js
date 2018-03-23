@@ -50,3 +50,11 @@ function isPersonOldEnoughToDrive(person) {
   }
   return person.age >= 16;
 }
+
+// Amanda Loftus
+function isPersonOldEnoughToDrive(person) {
+  return person.age >= 16;
+}
+
+// Dino Firmalino
+const isPersonOldEnoughToDrive = (obj) => obj.age >= 16;
